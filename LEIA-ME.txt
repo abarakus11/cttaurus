@@ -1,0 +1,31 @@
+C.T. TAURUS — NOVA VERSÃO
+
+COMO ATUALIZAR O SITE
+1. Extraia este ZIP no computador.
+2. Abra github.com/abarakus11/cttaurus.
+3. Clique em Add file > Upload files.
+4. Arraste index.html e vercel.json para a raiz do repositório, substituindo os anteriores.
+5. Confirme em Commit changes.
+6. Aguarde a Vercel concluir a nova publicação e atualize o navegador.
+
+Não envie o ZIP fechado. Não coloque os arquivos em uma subpasta.
+Não é necessário apagar assets, style.css ou script.js antigos: esta versão não depende deles.
+
+O index.html contém todo o site, incluindo imagens, estilos e interações.
+Abra-o no navegador para testar localmente antes de publicar.
+
+RECURSOS
+Abertura em tela cheia, entrada animada do título, efeito de profundidade ao rolar,
+transição vermelha pelo menu, revelação de seções, faixa de texto em movimento,
+carrossel contínuo com as 36 imagens dos quatro ZIPs, sem pausa ao passar o mouse,
+ampliação e retorno animado da foto ao carrossel, seção Federação,
+perguntas expansíveis e WhatsApp +55 11 96042-5925.
+Layout adaptável e respeito à preferência de movimento reduzido do dispositivo.
+As transições são entre seções de uma página única.
+
+VERCEL
+Framework: Other. Root Directory: raiz. Output Directory: .
+Sem build, instalação de dependências ou variáveis de ambiente.
+
+Não inclui agendamento automático ou cadastro. O contato abre o WhatsApp,
+e o visitante confirma o envio da mensagem.
